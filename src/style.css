@@ -27,9 +27,6 @@
 
 .p-header__item {
   font-size: 20px;
-  width: 20%;
-  max-width: 100%;
-  border: 1px solid #FFF;
 }
 
 .p-section1 {
@@ -38,7 +35,7 @@
 
 
 .p-header__item:not(:last-child) {
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 
@@ -59,6 +56,7 @@
 .l-section {
   padding: 200px 0;
   border-top: 1px solid #333;
+  text-align: center;
 }
 
 .p-section__title {
