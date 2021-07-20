@@ -85,6 +85,7 @@
   transition: opacity .3s;
 }
 .p-topup.is-show {
-  opacity: 1;
   transition: opacity .3s;
+  opacity: 1;
 }
+
