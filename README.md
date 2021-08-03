@@ -1,1 +1,1 @@
-# floating-item-smooth-scroll
+# floating-item＆smooth-scroll
